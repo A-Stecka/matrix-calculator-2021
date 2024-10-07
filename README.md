@@ -1,3 +1,3 @@
 # Matrix Calculator  
-Matrix calculator created as part of the subject: Techniques of Effective Programming
+Matrix calculator created as part of the Techniques of Effective Programming course
 -
