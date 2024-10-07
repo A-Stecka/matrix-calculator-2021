@@ -1,3 +1,3 @@
-# Kalkulator macierzy
-Kalkulator macierzy wykonany w ramach przedmiotu Techniki efektywnego programowania
+# Matrix Calculator  
+Matrix calculator created as part of the subject: Techniques of Effective Programming
 -
